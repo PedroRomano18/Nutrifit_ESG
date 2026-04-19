@@ -1,3 +1,10 @@
+using Microsoft.AspNetCore.Mvc;
+using Nutrifit_ESG.Models;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Nutrifit_ESG.Controllers;
+
 [ApiController]
 [Route("api/[controller]")]
 public class RefeicoesController : ControllerBase
