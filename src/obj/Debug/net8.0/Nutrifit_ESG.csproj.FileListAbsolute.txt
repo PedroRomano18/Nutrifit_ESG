@@ -1,6 +1,0 @@
-C:\Users\arthu\Documents\Nutrifit_ESG (1)\Nutrifit_ESG\src\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\arthu\Documents\Nutrifit_ESG (1)\Nutrifit_ESG\src\obj\Debug\net8.0\Nutrifit_ESG.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arthu\Documents\Nutrifit_ESG (1)\Nutrifit_ESG\src\obj\Debug\net8.0\Nutrifit_ESG.AssemblyInfoInputs.cache
-C:\Users\arthu\Documents\Nutrifit_ESG (1)\Nutrifit_ESG\src\obj\Debug\net8.0\Nutrifit_ESG.AssemblyInfo.cs
-C:\Users\arthu\Documents\Nutrifit_ESG (1)\Nutrifit_ESG\src\obj\Debug\net8.0\Nutrifit_ESG.csproj.CoreCompileInputs.cache
-C:\Users\arthu\Documents\Nutrifit_ESG (1)\Nutrifit_ESG\src\obj\Debug\net8.0\Nutrifit_ESG.MvcApplicationPartsAssemblyInfo.cache
