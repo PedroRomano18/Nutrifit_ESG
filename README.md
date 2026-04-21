@@ -61,5 +61,16 @@ ENTRYPOINT ["dotnet", "Nutrifit_ESG.dll"]
 - **Containerização:** Docker e Docker Compose.
 - **Integração e Entrega Contínuas (CI/CD):** GitHub Actions.
 
+---
 
+# Checklist de Entrega
 
+Item | OK
+--- | ---
+Projeto compactado em .ZIP com estrutura organizada | [ X ]
+Dockerfile funcional | [ X ]
+docker-compose.yml ou arquivos Kubernetes | [ X ]
+Pipeline com etapas de build, teste e deploy | [ X ]
+README.md com instruções e prints | [ X ]
+Documentação técnica com evidências (PDF ou PPT) | [ ] *A realizar pelo aluno*
+Deploy realizado nos ambientes staging e produção | [ ] *A realizar pelo aluno/Prints ausentes*

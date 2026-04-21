@@ -7,11 +7,11 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
-# Copia o csproj específico e restaura as dependências
+
 COPY ["src/Nutrifit_ESG.csproj", "src/"]
 RUN dotnet restore "./src/Nutrifit_ESG.csproj"
 
-# Copia todo o conteúdo de src e compila
+
 COPY src/ src/
 WORKDIR "/src/src"
 RUN dotnet build "./Nutrifit_ESG.csproj" -c $BUILD_CONFIGURATION -o /app/build
